@@ -1,0 +1,3 @@
+- modify/use everywhere
+- point to this gist/github
+- no warranties
